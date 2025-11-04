@@ -1,0 +1,14 @@
+C:\trabalho_sd\ex 3\Cliente\bin\Debug\net9.0\Cliente.exe
+C:\trabalho_sd\ex 3\Cliente\bin\Debug\net9.0\Cliente.deps.json
+C:\trabalho_sd\ex 3\Cliente\bin\Debug\net9.0\Cliente.runtimeconfig.json
+C:\trabalho_sd\ex 3\Cliente\bin\Debug\net9.0\Cliente.dll
+C:\trabalho_sd\ex 3\Cliente\bin\Debug\net9.0\Cliente.pdb
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfoInputs.cache
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfo.cs
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.csproj.CoreCompileInputs.cache
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.dll
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\refint\Cliente.dll
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.pdb
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\Cliente.genruntimeconfig.cache
+C:\trabalho_sd\ex 3\Cliente\obj\Debug\net9.0\ref\Cliente.dll

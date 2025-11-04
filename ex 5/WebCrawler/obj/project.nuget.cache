@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LliWdUS1REU=",
+  "success": true,
+  "projectFilePath": "C:\\trabalho_sd\\ex 5\\WebCrawler\\WebCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicvi\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

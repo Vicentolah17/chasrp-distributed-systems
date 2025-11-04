@@ -1,0 +1,17 @@
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\WebCrawler.exe
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\WebCrawler.deps.json
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\WebCrawler.runtimeconfig.json
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\WebCrawler.dll
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\WebCrawler.pdb
+C:\trabalho_sd\ex 5\WebCrawler\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.csproj.AssemblyReference.cache
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.AssemblyInfoInputs.cache
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.AssemblyInfo.cs
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.csproj.Up2Date
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.dll
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\refint\WebCrawler.dll
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.pdb
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\WebCrawler.genruntimeconfig.cache
+C:\trabalho_sd\ex 5\WebCrawler\obj\Debug\net9.0\ref\WebCrawler.dll
